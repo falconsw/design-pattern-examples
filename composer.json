@@ -2,7 +2,7 @@
     "name": "falconsw/design-pattern-examples",
     "type": "project",
     "require": {
-        "phpunit/phpunit": "^9.5"
+        "phpunit/phpunit": "^9.5.20"
     },
     "authors": [
         {
