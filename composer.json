@@ -1,0 +1,19 @@
+{
+    "name": "falconsw/design-pattern-examples",
+    "type": "project",
+    "require": {
+        "phpunit/phpunit": "^9.5"
+    },
+    "authors": [
+        {
+            "name": "falconsw",
+            "email": "omer_dogan@outlook.com"
+        }
+    ],
+    "description": "A collection of PHP design patterns examples.",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
