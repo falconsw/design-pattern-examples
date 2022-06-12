@@ -18,7 +18,7 @@ class StandardRoomReservationTest extends TestCase
 
         $totalPrice = $reservation->calculatePrice();
 
-        // assert that the total price is equal to 120
+        // assert that the total price is equal to 130
         $this->assertEquals(130, $totalPrice); // 100 + 20 + 10
 
     }
